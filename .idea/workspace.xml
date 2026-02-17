@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98eb742e-405e-42cd-8323-ed3cdff4027f" name="Changes" comment="Mundo 3 python">
-      <change afterPath="$PROJECT_DIR$/.idea/Curso-Python-Mundo-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.072.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,20 @@
       <option name="presentableId" value="Default" />
       <updated>1771355582824</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mundo 3 python">
+      <option name="closed" value="true" />
+      <created>1771355788372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771355788372</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mundo 3 python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mundo 3 python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
