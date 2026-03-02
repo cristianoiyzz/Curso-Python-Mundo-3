@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98eb742e-405e-42cd-8323-ed3cdff4027f" name="Changes" comment="Mundo 3 python">
-      <change afterPath="$PROJECT_DIR$/ex.073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.078.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex.072.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.072.py" afterDir="false" />
     </list>
@@ -36,6 +40,9 @@
     &quot;accountId&quot;: &quot;ab6d0c5c-7236-43de-ac8a-a6a56982286d&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ex.074.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,11 +56,17 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ex.072.executor": "Run",
     "Python.ex.073.executor": "Run",
+    "Python.ex.074.executor": "Run",
+    "Python.ex.075.executor": "Run",
+    "Python.ex.076.executor": "Run",
+    "Python.ex.077.executor": "Run",
+    "Python.ex.078.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -103,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771357849133</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mundo 3 python">
+      <option name="closed" value="true" />
+      <created>1771779510439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771779510439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,16 +141,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mundo 3 python" />
     <option name="LAST_COMMIT_MESSAGE" value="Mundo 3 python" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
