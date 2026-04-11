@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98eb742e-405e-42cd-8323-ed3cdff4027f" name="Changes" comment="Mundo 3 python">
-      <change afterPath="$PROJECT_DIR$/ex.079.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.081.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.082.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex.083.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.084.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.087.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.088.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.089.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.090.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex.078.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex.078.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,14 @@
     "Python.ex.081.executor": "Run",
     "Python.ex.082.executor": "Run",
     "Python.ex.083.executor": "Run",
+    "Python.ex.084.executor": "Run",
+    "Python.ex.085.executor": "Run",
+    "Python.ex.086.executor": "Run",
+    "Python.ex.087.executor": "Run",
+    "Python.ex.088.executor": "Run",
+    "Python.ex.089.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.planilha_excel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -137,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772479293099</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Mundo 3 python">
+      <option name="closed" value="true" />
+      <created>1773777305152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773777305152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
